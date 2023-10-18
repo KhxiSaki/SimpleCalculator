@@ -72,7 +72,7 @@ Partial Class Form1
         Me.GroupBox2.Controls.Add(Me.btnAddition)
         Me.GroupBox2.Location = New System.Drawing.Point(539, 53)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(200, 319)
+        Me.GroupBox2.Size = New System.Drawing.Size(200, 198)
         Me.GroupBox2.TabIndex = 0
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Operators:"
